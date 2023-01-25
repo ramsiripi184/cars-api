@@ -3,6 +3,7 @@ plugins {
 	id 'io.spring.dependency-management' version '1.0.9.RELEASE'
 	id 'java'
 	id 'pmd'
+	id "org.sonarqube" version "3.5.0.2730"
 }
 
 apply plugin: 'java'
