@@ -16,7 +16,7 @@ sonarqube {
   properties {
     property 'sonar.host.url', 'https://sonarcloud.io'
     property 'sonar.organization', 'abin-personal'
-    property 'sonar.projectKey', 'abin-personal'
+    property 'sonar.projectKey', 'abin-personal_abin-personal'
   }
 }
 repositories {
